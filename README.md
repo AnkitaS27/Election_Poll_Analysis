@@ -4,4 +4,4 @@ Analyzing the election poll and donations dataset to understand the below:
 1. Public affiliations to the parties and the different candidates
 2. Voter sentiment over time
 3. A comparison of the funds raised by every candidate
-4. Total donations made as per the different occupations for the different parties
+4. Demographics of the donors
